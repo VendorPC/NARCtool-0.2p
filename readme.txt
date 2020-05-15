@@ -1,4 +1,4 @@
-narctool 0.1-p rebooted - modified by FrankieD, Vendor, and Zekromaegis
+narctool 0.2-p rebooted - modified by FrankieD, Vendor, and Zekromaegis
 
 Simplified scripts were created for quicker use
 
